@@ -45,8 +45,7 @@ Works when data is linearly separable
 
 ---
 
-### Workflow (Short & Clean)
-
+### Workflow 
 - Data Loaded using pandas
 
 - Label Encoding for categorical features
